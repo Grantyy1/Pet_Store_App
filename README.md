@@ -37,7 +37,7 @@ Uses interactive teacher prompts for attendance input.
 
 ## Console Code 
 
-**Attendance_App**
+**Pet_Store_App**
 
 ├── **Student.java**        # Class representing a Student Account
 
@@ -97,9 +97,8 @@ Uses interactive teacher prompts for attendance input.
 ## License
 - ![License](https://img.shields.io/badge/License-MIT-green)
 - Copyright &copy; 2025 Grant Peverett. All rights reserved.**
-- Copyright &copy; 2025 Kylian James. All rights reserved.**
 ---
-## Authors
+## Author
 
 👨‍💻 **Grant Peverett**
 
@@ -108,16 +107,5 @@ Uses interactive teacher prompts for attendance input.
 - **Grant Peverett GitHub Profile**: [Grantyy1](https://github.com/Grantyy1)
   
 - **Email**: [grpeve01@wsc.edu]
-
-👨‍💻 **Kylian James**
-
-<img src="https://github.com/Grantyy1/Attendance_App/blob/master/assets/182804587.jpg" alt="![image](https://github.com/user-attachments/assets/2ec03d39-8db5-477f-af9e-5c9e161530c4)
-" width="100" />
-- **Kylian James GitHub Profile**: [KylianJ65](https://github.com/KylianJ65)
-  
-- **Email**: [kyjame01@wsc.edu](mailto:kyjame01@wsc.edu)
-
-
-
 
 [⬆️ Return to Top](#overview)
